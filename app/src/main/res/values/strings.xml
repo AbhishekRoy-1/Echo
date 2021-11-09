@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Echo</string>
+    <string name="welcome_to_e_music">Welcome To E-Music</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="todo">TODO</string>
+</resources>
